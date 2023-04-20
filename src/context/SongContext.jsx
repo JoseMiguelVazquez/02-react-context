@@ -55,3 +55,5 @@ export {
 }
 
 // Paso 5: ir a un componente superior (podria ser App o en este caso Home) y envolver a los componentes que harán uso del contexto con mi componente <SongProvider>
+
+// Paso 6: importar y usar el contexto en componentes hijos
